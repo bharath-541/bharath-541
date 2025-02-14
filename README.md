@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bharath-541 Perni Bharath Raghavendra
 - 👀 I’m interested in IoT and electronics
-- 🌱 I’m currently learning python  and scratch programm
+- 🌱 I’m currently learning python,C++,JAVA,HTML,CSS.
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me pernibharath15@gmail.com
 - 😄 Pronouns: he/him
