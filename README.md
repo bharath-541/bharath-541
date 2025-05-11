@@ -9,7 +9,7 @@
 
 
 ### 🧠 I’m learning:
--- **Full-stack development** with MERN stack and **Tailwind CSS** for modern UI.
+- **Full-stack development** with MERN stack and **Tailwind CSS** for modern UI.
 - **Data structures** and **algorithms** to improve problem-solving and coding efficiency.
 - **LangChain**, **Langflow**, and **OpenAI APIs** to build innovative AI solutions.
 
