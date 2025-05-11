@@ -44,8 +44,7 @@
 
 ### 📌 Pinned Projects
 - [ConversAI Labs](https://github.com/bharath-541/ConversAIlabs-LLM-finetuning-assignment) – Hinglish LLM fine-tuning project  
-- [Social Media Insights (Team Hackathon)](https://github.com/Soham-1304/Social_media_insights) – A team hackathon project that analyzes social media data for sentiment, keywords, and engagement insights using AI
-
+- [Social Media Insights (Team Hackathon)](https://github.com/bharath-541/Social_media_insights) – A team hackathon project that analyzes social media data for sentiment, keywords, and engagement insights using AI 
 ---
 
 ⭐ Feel free to star my repos and connect!
